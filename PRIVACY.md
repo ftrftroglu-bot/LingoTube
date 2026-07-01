@@ -1,28 +1,51 @@
 # Privacy Policy for LingoTube
 
-**Last Updated:** June 30, 2026
+**Last Updated:** July 1, 2026
 
-Welcome to LingoTube. Your privacy is critically important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our Mac App and Browser Extension.
+LingoTube is a language-learning application and browser extension for YouTube. This policy explains how LingoTube collects, uses, stores, and protects information.
 
-## 1. Information We Collect
-LingoTube is designed to be privacy-friendly. We only collect the minimum amount of information necessary to provide our core features:
-*   **Email Address:** When you sign up or log in via Google, we store your email address securely using Supabase. This is used solely to sync your saved vocabulary across devices.
-*   **Saved Vocabulary:** Words and phrases you explicitly save are stored in your private database so you can practice them later.
+## Information We Process
 
-## 2. Information We Do Not Collect
-*   **Browsing History:** We do NOT track your browsing history. The extension only activates on YouTube video pages.
-*   **Personal Data:** We do NOT sell, rent, or share your email or data with third-party advertisers.
+- **Account information:** When you sign in, your email address and account identifier are processed through Supabase authentication.
+- **Authentication data:** Session tokens are stored securely to keep you signed in and synchronize your data.
+- **Saved learning content:** Words, sentences, translations, notes, playlist names, and video information that you explicitly save may be stored in your private LingoTube account.
+- **YouTube content:** The extension processes subtitle text, video identifiers, titles, and URLs required to provide subtitles, translations, and saving features.
+- **Preferences:** Language selections and extension settings may be stored locally in your browser.
 
-## 3. How We Use Your Information
-*   To provide cross-device synchronization for your language learning progress.
-*   To authenticate your account.
+## How We Use Information
 
-## 4. Your Rights
-You have the right to request the deletion of your account and all associated data at any time. Simply contact us at `cagri.28.11@gmail.com`.
+Information is used only to:
 
-## 5. Security
-We use industry-standard encryption and secure third-party authentication providers (Google Auth via Supabase) to keep your data safe.
+- Provide interactive subtitles and translations on YouTube.
+- Save and synchronize learning content across supported devices.
+- Authenticate users and maintain their sessions.
+- Display saved content in the LingoTube application.
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
+## Information We Do Not Collect
+
+- We do not track or sell browsing history.
+- We do not sell, rent, or transfer personal information for advertising.
+- We do not collect financial, health, or location information.
+- The extension operates only on the websites and services required for its stated features.
+
+## Data Sharing
+
+Data is shared only with service providers required to operate LingoTube, including Supabase for authentication and storage and translation services when the user requests a translation. Data is not used for advertising or unrelated purposes.
+
+## Data Retention and Deletion
+
+Saved information is retained while the user maintains a LingoTube account. Users may request deletion of their account and associated data by contacting `cagri.28.11@gmail.com`.
+
+## Security
+
+LingoTube uses encrypted HTTPS connections and Supabase authentication and database security features to protect user information.
+
+## Limited Use
+
+The use of information received from Google APIs complies with the Chrome Web Store User Data Policy, including the Limited Use requirements.
+
+## Contact
+
+For questions or deletion requests, contact:
+
 `cagri.28.11@gmail.com`
