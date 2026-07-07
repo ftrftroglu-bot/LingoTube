@@ -14,11 +14,19 @@
 
 Available soon on the **Mac App Store** and **Google Chrome Web Store**.
 
-## 🛠 Support & Contact
 
-If you encounter any issues, have feature requests, or just want to say hi:
-*   Open an issue on this GitHub repository.
-*   Email: `cagri.28.11@gmail.com`
+## 📬 Support & Contact
+
+If you have any questions, feedback, or need help with LingoTube, please reach out to us:
+
+- **Email:** cagridelibay@gmail.com
+- **Issues:** [Report a bug or request a feature](https://github.com/ftrftroglu-bot/LingoTube/issues)
+
+We typically respond within 24 hours.
+
+## 📄 Privacy Policy
+
+You can read our privacy policy [here](https://github.com/ftrftroglu-bot/LingoTube/blob/main/PRIVACY.md).
 
 ---
 *© 2026 Cagri Delibay. All rights reserved.*
